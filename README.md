@@ -15,7 +15,7 @@ Avito Bot
 
 В окружение python необходимо установить зависимости из файла
 
-      pip freeze -r requirements.txt
+      pip install -r requirements.txt
 
 
 БЫСТРЫЙ ЗАПУСК
